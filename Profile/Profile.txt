@@ -1,0 +1,23 @@
+Name of the Student: Divvela Lakshmidhar Yadav
+Learning Track: Adminstrator
+Project Name: Streamlined Employee Detail Management
+Trailhead Profile: 
+Developer Org Username: yadavlakshmidhar@gdcproject.com
+Developer Org Password: Gayatri@123
+Position: Team Lead
+
+Name of the Student:
+Learning Track: Adminstrator
+Project Name: Streamlined Employee Detail Management
+Trailhead Profile: 
+Developer Org Username: 
+Developer Org Password: Gayatri@123
+Position: Team member
+
+Name of the Student:
+Learning Track: Adminstrator
+Project Name: Streamlined Employee Detail Management
+Trailhead Profile: 
+Developer Org Username: 
+Developer Org Password: Gayatri@123
+Position: Team member
