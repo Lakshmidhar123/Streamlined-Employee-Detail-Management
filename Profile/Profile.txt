@@ -1,23 +1,23 @@
 Name of the Student: Divvela Lakshmidhar Yadav
 Learning Track: Adminstrator
 Project Name: Streamlined Employee Detail Management
-Trailhead Profile: 
+Trailhead Profile: https://www.salesforce.com/trailblazer/lakshmidharyadav
 Developer Org Username: yadavlakshmidhar@gdcproject.com
 Developer Org Password: Gayatri@123
 Position: Team Lead
 
-Name of the Student:
+Name of the Student:naluguri nani
 Learning Track: Adminstrator
 Project Name: Streamlined Employee Detail Management
-Trailhead Profile: 
-Developer Org Username: 
+Trailhead Profile: https://www.salesforce.com/trailblazer/naninani
+Developer Org Username: naninaluguri@gdcproject.com
 Developer Org Password: Gayatri@123
 Position: Team member
 
-Name of the Student:
+Name of the Student: nandiboyini kiran kumar
 Learning Track: Adminstrator
 Project Name: Streamlined Employee Detail Management
-Trailhead Profile: 
-Developer Org Username: 
+Trailhead Profile: https://www.salesforce.com/trailblazer/kirankumarnandiboyini
+Developer Org Username: Kirankumar@gdctirupathi.com
 Developer Org Password: Gayatri@123
 Position: Team member
